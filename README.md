@@ -5,7 +5,7 @@
   
 <div align="start">
   <a href="https://github.com/IgorTrevelin">
-    <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/?username=IgorTrevelin&theme=dracula&count_private=true&show_icons=true" />
-    <img height="180em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorTrevelin&layout=compact&theme=dracula&langs_count=8&count_private=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/?username=IgorTrevelin&theme=dracula&count_private=true&show_icons=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorTrevelin&layout=compact&theme=dracula&langs_count=8&count_private=true" />
   </a>
 </div>
