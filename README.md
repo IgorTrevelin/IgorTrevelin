@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **supervised and unsupervised machine learning techniques.**
 
-- 💬 Ask me about **Machine Learning (ML), Python, Excel, PowerBI.**
+- 💬 Ask me about **Machine Learning (ML), Deep Learning, Data Visualization, Business Intelligence, Python, Excel, Microsoft PowerBI.**
 
 - 📫 How to reach me **igor.trevelin.xavier@gmail.com**
 
