@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Igor Trevelin!</h1>
-<h3 align="center">Recently completed an MBA in Data Science and currently looking for job opportunities in data area. Passionate about solving problems, with great interest in artificial intelligence and businesses.</h3>
 
 - 🌱 I’m currently learning **supervised and unsupervised machine learning techniques.**
 
