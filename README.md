@@ -1,46 +1,30 @@
-<h1 align="center">Hi 👋, I'm Igor Trevelin!</h1>
+<h2 align="center">👋 Hi there!</h2>
+<img align="right" src="https://media3.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47e2z3yzguqzwhsg3qi8jcvgbbjqaccwz99sio0315&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Data GIF by DataCamp" style="width: 300px; left: 0px; top: 0px; opacity: 0;margin: 15px;">
 
-- 🌱 I’m currently learning **supervised and unsupervised machine learning techniques.**
+I'm **Igor Trevelin**, a Computer Science graduate with a complete MBA in Data Science. Currently I am working in personal data science projects where I put my knowledge and skills in action on a daily basis.
 
-- 💬 Ask me about **Machine Learning (ML), Deep Learning, Data Visualization, Business Intelligence, Python, Excel, Microsoft PowerBI.**
+As a data scientist, I am always looking for new challenges and business problems to solve.
 
-- 📫 How to reach me **igor.trevelin.xavier@gmail.com**
+With a strong data background and advanced knowledge on tools like:
+- Python
+- SQL, NoSQL and Databases
+- Machine Learning
+- Data Extraction
+- Data Manipulation
+- Data Visualization
+- Microsoft Power BI
+- Microsoft Excel
+- AWS and GCP
+- Git
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/igor-trevelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-trevelin" height="30" width="35" /></a>
-<a href="https://kaggle.com/igortrevelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="igortrevelin" height="30" width="35" /></a>
-</p>
+I develop data science projects that help companies to make better data driven decisions and get valuable and actionable insights.
 
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R" width="35" height="35" />
-  </a>
-</p>
-<h4 align="left">Databases:</h4>
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/>
-</p>
-<h4 align="left">Data Tools:</h4>
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="35" height="35"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/> </a>
-</p>
-<h4 align="left">Machine Learning and Deep Learning:</h4>
-<p align="left">
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/> </a>  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> </a>
-</p>
-<h4 align="left">Cloud Services:</h4>
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud" width="35" height="35"/> </a>
-</p>
-<h4 align="left">Other Tools:</h4>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> </a>    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/> </a>  </p>
+## 📫 Let's connect on social media!
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/igor-trevelin/), or feel free to send me an [email](mailto:igor.trevelin.xavier@gmail.com).
+
+## 💡 About me 
+
+<!-- - 🖥️ Interested in seeing more of my work? Check out my portfolio [here]().-->
+- 🌱 I'm continuously learning and growing my skills.
+- 🔍 Explore my data science projects on [GitHub](https://github.com/IgorTrevelin/data-science).
