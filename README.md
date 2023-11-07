@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there!</h2>
 <img align="right" src="https://media3.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=ecf05e47e2z3yzguqzwhsg3qi8jcvgbbjqaccwz99sio0315&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Data GIF by DataCamp" style="width: 300px; left: 0px; top: 0px; opacity: 0;margin: 15px;">
 
-I'm **Igor Trevelin**, a Computer Science graduate with a complete MBA in Data Science. Currently I am working in personal data science projects where I put my knowledge and skills in action on a daily basis.
+I'm **Igor Trevelin**, a Computer Science graduate with a complete MBA in Data Science. Currently I am working in data science projects where I put my knowledge and skills in action on a daily basis.
 
 As a data scientist, I am always looking for new challenges and business problems to solve.
 
